@@ -19,3 +19,4 @@
 1. https://github.com/cmuppin/CEH
 2. https://github.com/System-CTL/CEH_CHEAT_SHEET
 3. https://github.com/Yshmehtaa/CEHV11
+4. https://github.com/infovault-Ytube/CEH-Practical-Notes
