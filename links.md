@@ -14,3 +14,8 @@
 7. https://github.com/nirangadh/ceh-practical
 8. https://github.com/imrk51/CEH-v11-Study-Guide
 9. https://github.com/undergroundwires/CEH-in-bullet-points
+
+# Important Links:
+1. https://github.com/cmuppin/CEH
+2. https://github.com/System-CTL/CEH_CHEAT_SHEET
+3. https://github.com/Yshmehtaa/CEHV11
