@@ -20,3 +20,5 @@
 2. https://github.com/System-CTL/CEH_CHEAT_SHEET
 3. https://github.com/Yshmehtaa/CEHV11
 4. https://github.com/infovault-Ytube/CEH-Practical-Notes
+5. https://github.com/Samson-DVS/CEH-Practical-Notes
+6. https://github.com/Rezkmike/CEH_Practical_Preparation
